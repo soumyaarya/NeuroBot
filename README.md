@@ -1,7 +1,7 @@
 # NeuroBot
 ## A mental health chat assistant
 
-#### Deploy Link : [MindMate](https://mind-mate-wellness.vercel.app/)
+#### Deploy Link : [NeuroBot](https://mind-mate-wellness.vercel.app/)
 
 
 

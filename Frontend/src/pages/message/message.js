@@ -168,7 +168,7 @@ function Message() {
         }}>
           <Logo />
           <div className={styles.headerText}>
-            <h4>MindMate</h4>
+            <h4>NeuroBot</h4>
             <h6>A mental health chat assistance</h6>
           </div>
         </div>

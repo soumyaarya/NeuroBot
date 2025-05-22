@@ -1,3 +1,15 @@
-node_modules
+# Ignore dependencies
+node_modules/
+
+# Ignore all environment files
 .env
-firebase.json
+.env.*
+
+# Ignore Firebase credentials
+firebase/firebaseServiceAccount.json.json
+
+# Ignore other potential sensitive config files
+*.key
+*.pem
+*.crt
+

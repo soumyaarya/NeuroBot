@@ -1,15 +1,13 @@
-# MindMate
+# NeuroBot
 ## A mental health chat assistant
 
 #### Deploy Link : [MindMate](https://mind-mate-wellness.vercel.app/)
-#### Youtube Link : [MindMate Youtube Explanation](https://www.youtube.com/watch?v=fUD5HcZhtQI)
-
-#### Our project MindMate got **1st Position** 😀 in it 👇️
-#### Devfolio Link : [MindMate Hackathon Project Link](https://devfolio.co/projects/mind-mate-a-mental-health-chat-assistant-1b96)
 
 
-Mindmate is a mental health **AI** powered chat assistant that guides and helps you to improve your mental health.
-Mindmate website provides a user-friendly UI to learn about mental health.
+
+
+NeuroBot is a mental health **AI** powered chat assistant that guides and helps you to improve your mental health.
+NeuroBot website provides a user-friendly UI to learn about mental health.
 
 ## Features
 
@@ -24,12 +22,12 @@ Mindmate website provides a user-friendly UI to learn about mental health.
 ## Tech
 
 #### System Design
-MindMate application runs on 4 server
+NeuroBot application runs on 4 server
 - Frontend
 - Backend
 - WebSocket Server
 - Email Server
-![des](https://github.com/algovengers/MindMate/assets/126336384/bc6c71c9-017f-49c9-9770-ee10164fe88b)
+
 
 #### Tech stack
 - Frontend
